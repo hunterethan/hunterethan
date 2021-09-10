@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently a he/him computer science student at CMU, who likes snowboarding, skateboarding, disc golfing, concerts, and souls-likes. I also have ADHD which means i've started countless other hobbies I didn't follow through, including whatever you're into. I'm currently focusing on learning machine learning with python for a data science path. 
 
 <!--
 **hunterethan/hunterethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
